@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718619696649",
+    "project_id": "dam-add-firebase",
+    "storage_bucket": "dam-add-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718619696649:android:5e000ba624e4f30d2722d8",
+        "android_client_info": {
+          "package_name": "com.example.dam_add_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATBpeDPJeX3drmwiz056XBxSXkemraUlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
